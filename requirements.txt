@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langgraph
+langchain-community
+langchain-experimental
+chromadb
+sentence-transformers
+faiss-cpu
+open_clip_torch
+torch
+torchvision
+torchaudio
+pymupdf
+paddleocr
+paddlepaddle
+python-dotenv
+pillow
